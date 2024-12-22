@@ -1,0 +1,1 @@
+https://huggingface.co/searle-j/kote_for_meticulous_people/blob/main/kote_pytorch_lightning.bin
